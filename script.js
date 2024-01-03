@@ -1,5 +1,3 @@
-//your JS code here. If required.
-//your JS code here. If required.
 let answer = confirm("Do you want to proceed?");
 
 if (answer) {
